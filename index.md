@@ -8,10 +8,10 @@
     <title>Drag Race Simulator</title>
 </head>
 <body>
-    <h1 id="MainTitle">Drag Race Simulator!</h1>
+    <h1 id="MainTitle">Klaroline's Drag Race Simulator!</h1>
     
     <div id="MainBlock">
-        <p><big>This is you chance to simulate a drag race season with all your favorite contestants!</big></p>
+        <p><big>This is you chance to simulate a drag race season with all your favorite Msp drag contestants!</big></p>
         <div>
             <p>How many queens do you want on your cast?</p>
             <input type="number" min="3" max="20" id="castSize">
@@ -80,13 +80,8 @@
             <b><p>
                 <big><a href="custom.html" id="inblock">Custom</a></big>
             </p></b>
-            <b><p>
-                <big><a href="https://forms.gle/yM4fWVpARyArTKKi8" id="inblock" target=_blank>Suggest songs for the simulator</a></big>
-            </p></b>
-            <b><p>
-                <big><a href="https://discord.gg/cKaA8hvcAr" target=_blank>Discord Server</a></big>
-            </p></b>
         </div>
+       
 
     </div>
 
