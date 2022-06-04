@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link id="style" rel="stylesheet" href="css/style.light.css">
     <link rel="icon" href="image/favicon.ico">
-    <title>Drag Race Simulator</title>
+    <title>Klaroline's Drag Race</title>
 </head>
 <body>
     <h1 id="MainTitle">Klaroline's Drag Race Simulator!</h1>
